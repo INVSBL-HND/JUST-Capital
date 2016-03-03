@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'FolioStd-BoldCondensed';
+  src: url('FolioStd-BoldCondensed.eot?#iefix') format('embedded-opentype'),  url('FolioStd-BoldCondensed.otf')  format('opentype'),
+	     url('FolioStd-BoldCondensed.woff') format('woff'), url('FolioStd-BoldCondensed.ttf')  format('truetype'), url('FolioStd-BoldCondensed.svg#FolioStd-BoldCondensed') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
